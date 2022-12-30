@@ -4,3 +4,4 @@ src/=src/
 @openzeppelin/contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/contracts/
 @openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
 @opengsn/=lib/gsn/packages/
+@chainlink/=lib/chainlink/
