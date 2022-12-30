@@ -21,3 +21,8 @@
 [submodule "lib/gsn"]
 	path = lib/gsn
 	url = https://github.com/opengsn/gsn
+[submodule "lib/chainlink"]
+	path = lib/chainlink
+	url = https://github.com/smartcontractkit/chainlink
+[submodule "lib\\chainlink"]
+	branch = v1.10.0
