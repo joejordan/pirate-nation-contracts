@@ -3,9 +3,11 @@
   "plugins": ["prettier"],
   "rules": {
     "code-complexity": ["error", 16],
+    "const-name-snakecase": "off",
     "compiler-version": ["error", ">=0.8.4"],
     "func-visibility": ["error", { "ignoreConstructors": true }],
     "max-line-length": ["error", 240],
+    "no-empty-blocks": "off",
     "no-inline-assembly": "off",
     "not-rely-on-time": "off",
     "prettier/prettier": [
@@ -14,6 +16,8 @@
         "endOfLine": "auto"
       }
     ],
-    "reason-string": ["warn", { "maxLength": 64 }]
+    "reason-string": ["warn", { "maxLength": 64 }],
+    "state-visibility": "off",
+    "var-name-mixedcase": "off" 
   }
 }
