@@ -17,6 +17,7 @@
         "endOfLine": "auto"
       }
     ],
+    "quotes": "off",
     "reason-string": ["warn", { "maxLength": 64 }],
     "state-visibility": "off",
     "var-name-mixedcase": "off" 
