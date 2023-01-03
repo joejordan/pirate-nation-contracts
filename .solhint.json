@@ -4,6 +4,7 @@
   "rules": {
     "code-complexity": ["error", 16],
     "const-name-snakecase": "off",
+    "contract-name-camelcase": "off",
     "compiler-version": ["error", ">=0.8.4"],
     "func-name-mixedcase": "off",
     "func-visibility": ["error", { "ignoreConstructors": true }],
